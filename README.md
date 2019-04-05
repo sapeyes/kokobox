@@ -4,9 +4,10 @@ Simple web interface for flexget.
 
 This is my own web site to control flexget and to download what I want. 
 
+I am using Entware by open-wrt on Asus RT-AC68. 
 
 
-opt/root/.flexget/
+/opt/root/.flexget/
 * config.yml
 * db.sqlite3
 * input (rss)
