@@ -12,15 +12,15 @@ I am using Entware by open-wrt on Asus RT-AC68.
 * config.yml
 * db.sqlite3
 * input (rss)
-** kdrama.yml
-** kent.yml
-** tv.yml
-** fmovies.yml
+ kdrama.yml
+ kent.yml
+ tv.yml
+ fmovies.yml
 * want (video titles)
-** kdrama.yml
-** kent.yml
-** tv.yml
-** fmovies.yml
+ kdrama.yml
+ kent.yml
+ tv.yml
+ fmovies.yml
 
 
 # Web
